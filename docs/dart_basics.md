@@ -210,7 +210,7 @@ void main() {
 }
 ```
 
-Positional Parameter
+### Positional Parameter
 순서가 중요한 파라미터입니다. 함수 호출 시 지정한 순서대로 값이 전달됩니다.
 
 ```dart
@@ -224,7 +224,7 @@ void main() {
 }
 ```
 
-Optional Parameter
+### Optional Parameter
 있어도 되고 없어도 되는 파라미터입니다. 대괄호 []로 감싸서 정의합니다.
 
 ```dart
@@ -242,7 +242,7 @@ void main() {
 }
 ```
 
-Named Parameter
+### Named Parameter
 이름이 있는 파라미터로, 호출 시 순서와 관계없이 이름으로 값을 전달할 수 있습니다. 중괄호 {}로 감싸서 정의합니다.
 
 ```dart
@@ -256,7 +256,7 @@ void main() {
 }
 ```
 
-Arrow Function
+### Arrow Function
 간결하게 표현할 수 있는 함수로, 화살표 =>를 사용하여 정의합니다.
 
 ```dart
