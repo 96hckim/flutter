@@ -1,0 +1,5 @@
+# 모든 파일을 무시하여 언어 통계에서 제외
+* linguist-vendored
+
+# Dart 파일만 포함하여 언어 통계에 반영
+*.dart linguist-vendored=false
